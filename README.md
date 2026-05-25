@@ -8,6 +8,7 @@ because this is a Unity-based Vita game with custom physics, it will not run wel
 If you try to run this without these exact settings, the framerate will tank and the game will be unplayable.
 
 
+<img width="1812" height="787" alt="image" src="https://github.com/user-attachments/assets/f633bda1-5c12-4db0-b971-0ea3b8ee33f8" />
 
 
 
